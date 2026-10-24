@@ -1,0 +1,4 @@
+interface:
+  display_name: "公众号手绘猫漫"
+  short_description: "匹配参考文章的手绘猫漫风格，完成公众号选题、文稿、分镜、封面和审稿"
+  default_prompt: "用 $handraw-style 匹配参考文章，写一篇带解释文字的猫咪漫画稿，制作正文试画，并检查文稿和封面。"
